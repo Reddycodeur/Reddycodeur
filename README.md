@@ -10,6 +10,7 @@ Bienvenue sur une partie de ma vie sur l'internet, je suis un apprentit developp
 N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de tech. ☀️
 
 **Tech Stack :**
+
 -**language** : HTML, CSS, Javascript.
 
 -**Frameworks & outils** : Tailwind CSS, React, Flutter.
