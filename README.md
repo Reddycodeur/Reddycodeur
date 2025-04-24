@@ -11,9 +11,13 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 
 **Tech Stack :**
 -**language** : HTML, CSS, Javascript.
+
 -**Frameworks & outils** : Tailwind CSS, React, Flutter.
+
 -**Design & UI/UX** : Figma. 
+
 -**Versioning** : Git & Github.
+
 -**Base de données** : MySQL.
 
 **📫 Me contacter**
