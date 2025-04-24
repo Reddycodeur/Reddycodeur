@@ -1,16 +1,22 @@
-## Hi there 👋
+# salut 👋 **je suis Moushouboua reddy**
 
-<!--
-**Reddycodeur/Reddycodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content de vous voir ici.
 
-Here are some ideas to get you started:
+Developpeur Web formé dans le cadre du projet D-clique de l'OIF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi :
+Bienvenue sur une partie de ma vie sur l'internet, je suis un apprentit developpeur et j'aspire à faire carrière dans le developpement Web on travaillant sur des projets à fort impact au Congo et dans le monde entier.
+
+N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de tech. ☀️
+
+**Tech Stack :**
+-**language** : HTML, CSS, Javascript.
+-**Frameworks & outils** : Tailwind CSS, React, Flutter.
+-**Design & UI/UX** : Figma. 
+-**Versioning** : Git & Github.
+-**Base de données** : MySQL.
+
+**📫 Me contacter**
+
+-**✉️ Mail** : rheddymoushouboua@gmail.com
+
