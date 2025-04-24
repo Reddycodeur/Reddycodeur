@@ -11,17 +11,17 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 
 **Tech Stack :**
 
--**language** : HTML, CSS, Javascript.
+- **language** : HTML, CSS, Javascript.
 
--**Frameworks & outils** : Tailwind CSS, React, Flutter.
+- **Frameworks & outils** : Tailwind CSS, React, Flutter.
 
--**Design & UI/UX** : Figma. 
+- **Design & UI/UX** : Figma. 
 
--**Versioning** : Git & Github.
+- **Versioning** : Git & Github.
 
--**Base de données** : MySQL.
+- **Base de données** : MySQL.
 
 **📫 Me contacter**
 
--**✉️ Mail** : rheddymoushouboua@gmail.com
+- **✉️ Mail** : rheddymoushouboua@gmail.com
 
